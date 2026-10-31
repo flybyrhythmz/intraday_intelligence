@@ -1,0 +1,3 @@
+# Standard Library dependencies are built-in (urllib, json, time, math, subprocess).
+# Optional package if you prefer yfinance wrapper:
+# yfinance>=0.2.38
